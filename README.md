@@ -1,4 +1,4 @@
 # Hello-World
 First repository
 
-I love programming and this is new commit change!
+I love programming and learning new things!
